@@ -1,0 +1,6 @@
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\bin\Debug\Prove.exe.config
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\bin\Debug\Prove.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\bin\Debug\Prove.pdb
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\obj\Debug\Prove.csprojResolveAssemblyReference.cache
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\obj\Debug\Prove.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\Prove\Prove\obj\Debug\Prove.pdb

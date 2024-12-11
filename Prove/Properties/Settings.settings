@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Prove.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="suorcePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T:\PROGETTI IN SVILUPPO\Prova microapp</Value>
+    </Setting>
+    <Setting Name="destinationFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T:\PROGETTI IN SVILUPPO\Prova microapp\Export</Value>
+    </Setting>
+    <Setting Name="exportFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Lista File</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
